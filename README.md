@@ -4,7 +4,6 @@ In addition to building SaaS apps and writing, I work as a consultant for compan
 
 - Build Rails applications
 - Design and hire your first engineering organization
-- Design and refine your product strategy
 
 On my own time, I'm working on:
 
