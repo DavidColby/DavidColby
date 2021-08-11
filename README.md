@@ -12,4 +12,4 @@ On my own time, I'm working on:
 - [Vestimonials](https://vestimonials.tv/) - A web app to help businesses capture and share async videos, made with Rails and deployed on Heroku
 - **Coming soon** Invoice management for independent consultants - A web app to generate, send, and track invoices, made with Rails and Hotwire and deployed on Heroku. Public beta releasing in September 2021.
 
-Want to get in touch? You can [email me](mailto: david@colby.so) or find me on [Twitter](https://twitter.com/davidcolbyatx)
+Want to get in touch? You can [email me](mailto:david@colby.so) or find me on [Twitter](https://twitter.com/davidcolbyatx)
