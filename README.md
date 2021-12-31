@@ -9,6 +9,5 @@ On my own time, I'm working on:
 
 - [Colby.so](https://colby.so/) - My blog, where I write mostly about Rails and Hotwire, with the occasional diversion to broader engineering and product management topics when the mood strikes. Built with Jekyll and deployed on Netlify
 - [Hotwiring Rails](https://www.getrevue.co/profile/hotwiringrails) - A curated monthly newsletter on Rails on Hotwire. Powered by Revue
-- **Coming soon** A journaling application to help employees grow through regular reflection and thoughtful preparation for conversations with their manager. Public beta releasing in November of 2021.
 
 Want to get in touch? You can [email me](mailto:david@colby.so) or find me on [Twitter](https://twitter.com/davidcolbyatx)
