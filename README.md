@@ -1,4 +1,4 @@
-Hi there 👋 I'm David. I build stuff with Ruby on Rails and Hotwire and write articles to help others build cool things, too. 
+Hi there 👋 I'm David. I build cool stuff with Ruby on Rails and Hotwire, build engineering and product organizations, and write articles to help others build cool things, too. 
 
 In addition to building SaaS apps and writing, I work as a consultant for companies that align with my values. I'm available for short and long term consulting work to help your company:
 
