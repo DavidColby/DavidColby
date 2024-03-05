@@ -8,7 +8,7 @@ In addition to building SaaS apps and writing, I work as a consultant for compan
 On my own time, I'm working on:
 
 - [Colby.so](https://colby.so/) - My blog, where I write mostly about Rails and Hotwire, with the occasional diversion to broader engineering and product management topics when the mood strikes. Built with Jekyll and deployed on Netlify
-- [Hotwiring Rails](https://www.getrevue.co/profile/hotwiringrails) - A curated monthly newsletter on Rails on Hotwire. Powered by Revue
-- [Hotwired ATS](https://davidcolby.gumroad.com/l/hotwired-ats) - A book on building a modern Ruby on Rails application with Hotwire and StimulusReflex, published on my own custom web application with purchasing powered by Gumroad.
+- [Hotwiring Rails](https://buttondown.email/davidcolby) - A curated monthly newsletter on Rails on Hotwire. Powered by Buttondown
+- [Hotwired ATS](https://davidcolby.gumroad.com/l/hotwired-ats) - A book on building a modern Ruby on Rails application with Hotwire and StimulusReflex, published on my own custom web application with purchasing powered by Gumroad. Rewrite for Turbo 8 publishing spring 2024.
 
 Want to get in touch? You can [email me](mailto:david@colby.so) or find me on [Twitter](https://twitter.com/davidcolbyatx)
