@@ -1,9 +1,9 @@
 Hi there 👋 I'm David. I build cool stuff with Ruby on Rails and Hotwire, build engineering and product organizations, and write articles to help others build cool things, too. 
 
-In addition to building SaaS apps and writing, I work as a consultant for companies that align with my values. I'm available for short and long term consulting work to help your company:
+In addition to my full-time job and my writing work, I sometimes work as a consultant for companies that align with my values. I'm available for short and long term consulting work to help your company:
 
 - Build Rails applications
-- Design and hire your first engineering organization
+- Design and scale your engineering and product organization
 
 On my own time, I'm working on:
 
