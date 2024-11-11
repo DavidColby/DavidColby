@@ -8,7 +8,6 @@ In addition to my full-time job and my writing work, I sometimes work as a consu
 On my own time, I'm working on:
 
 - [Colby.so](https://colby.so/) - My blog, where I write mostly about Rails and Hotwire, with the occasional diversion to broader engineering and product management topics when the mood strikes. Built with Jekyll and deployed on Netlify
-- [Hotwiring Rails](https://buttondown.email/davidcolby) - A curated monthly newsletter on Rails on Hotwire. Powered by Buttondown
-- [Hotwired ATS](https://davidcolby.gumroad.com/l/hotwired-ats) - A book on building a modern Ruby on Rails application with Hotwire and StimulusReflex, published on my own custom web application with purchasing powered by Gumroad. Rewrite for Turbo 8 publishing spring 2024.
+- VeriBloom — A soon-to-release video testimonial collection product built with Ruby on Rails.
 
 Want to get in touch? You can [email me](mailto:david@colby.so) or find me on [Twitter](https://twitter.com/davidcolbyatx)
