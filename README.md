@@ -7,7 +7,7 @@ In addition to my full-time job and my writing work, I sometimes work as a consu
 
 On my own time, I'm working on:
 
-- [Colby.so](https://colby.so/) - My blog, where I write mostly about Rails and Hotwire, with the occasional diversion to broader engineering and product management topics when the mood strikes. Built with Jekyll and deployed on Netlify
-- VeriBloom — A soon-to-release video testimonial collection product built with Ruby on Rails.
+- [Colby.so](https://colby.so/) - My blog, where I write about things I find interesting
+- Personal apps, built with AI. I'm leaning into Cursor-driven development and figuring out how to make the most of LLMs to ship cool stuff for myself and my family. Some of those cool things are on their way to the app store for other people to enjoy too.
 
 Want to get in touch? You can [email me](mailto:david@colby.so) or find me on [Twitter](https://twitter.com/davidcolbyatx)
